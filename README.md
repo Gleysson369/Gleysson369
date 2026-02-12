@@ -1,36 +1,36 @@
-<h1 align="center">Oi 👋, Eu sou Gleysson Flávio</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil.</h3>
+<h1 align="center">Hi 👋, I'm Gleysson Flávio</h1>
+<h3 align="center">A passionate frontend developer from Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gleysson369&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="gleysson369" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gleysson369&label=Profile+Views&color=0e75b6&style=flat" alt="gleysson369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gleysson369" alt="gleysson369" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **Projeto Solo.**
+- 🔭 I’m currently working on **Solo Projects.**
 
-- 👀 Tenho interesse em trabalhar como programador.
+- 👀 I’m interested in working as a programmer.
 
-- 🌱 Atualmente estou aprendendo **desenvolvimento e estudando programação.**
+- 🌱 I’m currently learning **web development and studying programming.**
 
-- 🤝 Estou procurando ajuda com **entendimento sobre linguagens.**
+- 🤝 I’m looking for help with **understanding programming languages.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Gleysson369](https://github.com/Gleysson369)
+- 👨‍💻 All of my projects are available at [https://github.com/Gleysson369](https://github.com/Gleysson369)
 
-- 💬 Me pergunte sobre **Os Projetos.**
+- 💬 Ask me about **The Projects.**
 
-- 📫 Como me encontrar **(https://linktr.ee/gleyssonflavio)**
+- 📫 How to reach me **(https://linktr.ee/gleyssonflavio)**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/gleysson-flavio-094a17198/](https://www.linkedin.com/in/gleysson-flavio-094a17198/)
+- 📄 Know more about my experiences [https://www.linkedin.com/in/gleysson-flavio-094a17198/](https://www.linkedin.com/in/gleysson-flavio-094a17198/)
 
-- ⚡ Curiosidade **Piadas de tiozão.**
+- ⚡ Fun fact: **Dad jokes.**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gleysson-flavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gleysson-flavio" height="30" width="40" /></a>
 <a href="https://fb.com/gleysson flavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gleysson flavio" height="30" width="40" /></a>
 <a href="https://instagram.com/gleysson_flavio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gleysson_flavio" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -57,8 +57,8 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gleysson369&show_icons=true&locale=pt-br&layout=compact" alt="gleysson369" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gleysson369&show_icons=true&locale=en&layout=compact" alt="gleysson369" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gleysson369&show_icons=true&locale=pt-br" alt="gleysson369" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gleysson369&show_icons=true&locale=en" alt="gleysson369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gleysson369&" alt="gleysson369" /></p>
