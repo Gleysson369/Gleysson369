@@ -11,7 +11,7 @@
 - 🔭 Trabalhando em projetos Fullstack  
 - 🌱 Estudando Java, Spring Boot e TypeScript  
 - 🤝 Buscando evoluir em arquitetura backend  
-- 📫 Contato: [Site: gleyssonflavio ](https://portfolio-tesla-style.vercel.app/)](https://portfolio-tesla-style.vercel.app/)
+- 📫 **Contato:** [Acesse meu Portfólio](https://portfolio-tesla-style.vercel.app/)
 
 ---
 
