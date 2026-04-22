@@ -34,27 +34,20 @@
 
 ## 📈 Nível de conhecimento
 
-### Java ☕
-██████████░░░░░░░░ 50%
-
-### Flutter 📱
-████████████░░░░░░ 60%
-
-### Firebase 🔥
-███████████░░░░░░░ 55%
-
-### Python 🐍
-████████░░░░░░░░░░ 40%
+![Java](https://img.shields.io/badge/Java-70%25-green)
+![Flutter](https://img.shields.io/badge/Flutter-60%25-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-55%25-orange)
+![Python](https://img.shields.io/badge/Python-40%25-red)
 
 ---
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysson369&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gleysson369&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleysson369&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleysson369&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gleysson369)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gleysson369&theme=tokyonight)
 
 ---
 
