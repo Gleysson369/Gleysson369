@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=gleysson369&color=blue)
 # 👋 Olá, eu sou Gleysson Flávio
 
 💻 Desenvolvedor apaixonado por tecnologia  
